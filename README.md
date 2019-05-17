@@ -1,0 +1,1 @@
+# frontend-nuxt-ssr-kit
