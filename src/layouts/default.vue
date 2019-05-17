@@ -1,8 +1,22 @@
 <template>
   <div>
     <nuxt />
+
+    <v-footer></v-footer>
   </div>
 </template>
+<script>
+  import VFooter from '~/components/VFooter'
+
+  export default {
+    components: {
+      VFooter
+    },
+    head () {
+      return this.$nuxtI18nSeo()
+    },
+  }
+</script>
 
 <style>
 html {
@@ -31,9 +45,10 @@ html {
   color: #3b8070;
   text-decoration: none;
   padding: 10px 30px;
+  margin: 10px;
 }
 
-.button--green:hover {
+.button--green:hover,  .button--green.active{
   color: #fff;
   background-color: #3b8070;
 }

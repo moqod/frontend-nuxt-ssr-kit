@@ -30,6 +30,7 @@ module.exports = {
   css: [
     '@/assets/less/normalize.less',
     '@/assets/less/variables.less',
+    'swiper/dist/css/swiper.css'
   ],
 
   /*
@@ -66,7 +67,7 @@ module.exports = {
       defaultLocale: 'en',
       lazy: true,
       langDir: 'lang/',
-      seo: false
+      seo: false // disable for better performance, enable it for layout this.$nuxtI18nSeo()
     }]
   ],
   /*

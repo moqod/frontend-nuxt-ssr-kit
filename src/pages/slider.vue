@@ -3,9 +3,7 @@
         <div>
             <logo/>
             <h1 class="title" v-html="page.seo.metaTitle"></h1>
-            <h2 class="subtitle">
-                Nuxt + Universal(SSR) + Firebase + Flamelink
-            </h2>
+
             <div class="links">
                 <nuxt-link
                         v-for="item in navigation"
@@ -17,12 +15,15 @@
                     {{ item.title }}
                 </nuxt-link>
             </div>
+
+            <v-slider :slides="page.slider"></v-slider>
         </div>
     </section>
 </template>
 
 <script>
   import Logo from '~/components/Logo.vue'
+  import VSlider from '~/components/VSlider.vue'
   import {mapGetters} from 'vuex'
 
   export default {
@@ -44,11 +45,12 @@
       }
     },
     components: {
-      Logo
+      Logo,
+      VSlider
     },
     async asyncData({app, store}) {
       try {
-        let pageKey = 'home' + store.getters.lang;
+        let pageKey = 'slider' + store.getters.lang;
         const page = await app.flamelink.content.get(pageKey, { populate: true });
         store.commit('setPage', page);
 
@@ -85,7 +87,7 @@
         font-family: @familyDefault;
         display: block;
         font-weight: 300;
-        font-size: 100px;
+        font-size: 80px;
         color: @bright-primary;
         letter-spacing: 1px;
     }
