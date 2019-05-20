@@ -1,0 +1,1268 @@
+{
+    "flamelink": {
+        "environments": {
+            "production": {
+                "content": {
+                    "homeEn": {
+                        "en-US": {
+                            "__meta__": {
+                                "createdBy": "776DXxEwEQaJ5XWIvMAzZS6SBSs2",
+                                "createdDate": "2019-05-17T14:29:54.450Z"
+                            },
+                            "id": "homeEn",
+                            "seo": {
+                                "canonicalUrl": "",
+                                "description": "",
+                                "keywords": "",
+                                "metaAuthor": "",
+                                "metaTitle": "Nuxt SSR Kit"
+                            }
+                        }
+                    },
+                    "languageEn": {
+                        "en-US": {
+                            "__meta__": {
+                                "createdBy": "776DXxEwEQaJ5XWIvMAzZS6SBSs2",
+                                "createdDate": "2019-05-17T14:41:23.142Z"
+                            },
+                            "footer": {
+                                "copyright": "2019 @MQD"
+                            },
+                            "id": "languageEn",
+                            "title": ""
+                        }
+                    },
+                    "settings": {
+                        "en-US": {
+                            "__meta__": {
+                                "createdBy": "NcsdXkTeqBXEIiyc3LzMFMxwiL23",
+                                "createdDate": "2019-05-13T09:33:39.386Z",
+                                "lastModifiedBy": "776DXxEwEQaJ5XWIvMAzZS6SBSs2",
+                                "lastModifiedDate": "2019-05-17T12:41:34.825Z"
+                            },
+                            "contactUsEmail": "info@example.com",
+                            "id": "settings",
+                            "logo": [
+                                1558096872500
+                            ],
+                            "social": {
+                                "facebookLink": "https://www.facebook.com/",
+                                "instagramLink": "https://www.linkedin.com/company/mvpready",
+                                "linkedinLink": "https://www.linkedin.com/",
+                                "twitterLink": "https://www.twitter.com/"
+                            }
+                        }
+                    },
+                    "sliderEn": {
+                        "en-US": {
+                            "__meta__": {
+                                "createdBy": "776DXxEwEQaJ5XWIvMAzZS6SBSs2",
+                                "createdDate": "2019-05-17T14:29:29.623Z"
+                            },
+                            "id": "sliderEn",
+                            "seo": {
+                                "canonicalUrl": "",
+                                "description": "",
+                                "keywords": "",
+                                "metaAuthor": "",
+                                "metaTitle": "Slider"
+                            },
+                            "slider": [
+                                {
+                                    "text": "<p>Slide 1</p>\n",
+                                    "uniqueKey": "kcCncmnAq"
+                                },
+                                {
+                                    "text": "<p>Slide 2</p>\n",
+                                    "uniqueKey": "AIfr10I__A"
+                                },
+                                {
+                                    "text": "<p>Slide 3</p>\n",
+                                    "uniqueKey": "Zs1fEb0Lhc"
+                                },
+                                {
+                                    "text": "<p>Slide 4</p>\n",
+                                    "uniqueKey": "XBUwUtLZLM"
+                                }
+                            ]
+                        }
+                    }
+                },
+                "navigation": {
+                    "navbarEn": {
+                        "en-US": {
+                            "__meta__": {
+                                "createdBy": "776DXxEwEQaJ5XWIvMAzZS6SBSs2",
+                                "createdDate": "2019-05-17T14:21:45.377Z",
+                                "lastModifiedBy": "776DXxEwEQaJ5XWIvMAzZS6SBSs2",
+                                "lastModifiedDate": "2019-05-17T14:22:10.969Z"
+                            },
+                            "id": "navbarEn",
+                            "items": [
+                                {
+                                    "attachment": 0,
+                                    "component": "",
+                                    "cssClass": "",
+                                    "id": 1558102910204,
+                                    "newWindow": false,
+                                    "order": 0,
+                                    "parentIndex": 0,
+                                    "title": "Home",
+                                    "url": "/",
+                                    "uuid": 1558102910204
+                                },
+                                {
+                                    "attachment": 0,
+                                    "component": "",
+                                    "cssClass": "",
+                                    "id": 1558102918024,
+                                    "newWindow": false,
+                                    "order": 1,
+                                    "parentIndex": 0,
+                                    "title": "Page with slider",
+                                    "url": "/slider",
+                                    "uuid": 1558102918024
+                                }
+                            ],
+                            "title": "Navbar (En)"
+                        }
+                    },
+                    "navbarNl": {
+                        "en-US": {
+                            "__meta__": {
+                                "createdBy": "776DXxEwEQaJ5XWIvMAzZS6SBSs2",
+                                "createdDate": "2019-05-17T14:22:53.278Z"
+                            },
+                            "id": "navbarNl",
+                            "items": [
+                                {
+                                    "attachment": 0,
+                                    "component": "",
+                                    "cssClass": "",
+                                    "id": 1558102953481,
+                                    "newWindow": false,
+                                    "order": 0,
+                                    "parentIndex": 0,
+                                    "title": "Home",
+                                    "url": "/",
+                                    "uuid": 1558102953481
+                                },
+                                {
+                                    "attachment": 0,
+                                    "component": "",
+                                    "cssClass": "",
+                                    "id": 1558102960260,
+                                    "newWindow": false,
+                                    "order": 1,
+                                    "parentIndex": 0,
+                                    "title": "Slider",
+                                    "url": "/slider",
+                                    "uuid": 1558102960260
+                                }
+                            ],
+                            "title": "Navbar (Nl)"
+                        }
+                    }
+                },
+                "schemas": {
+                    "homeEn": {
+                        "__meta__": {
+                            "createdBy": "776DXxEwEQaJ5XWIvMAzZS6SBSs2",
+                            "createdDate": "2019-05-17T14:16:59.888Z"
+                        },
+                        "description": "",
+                        "enabled": true,
+                        "fields": [
+                            {
+                                "defaultValue": "",
+                                "description": "",
+                                "gridColumns": {
+                                    "lg": 12,
+                                    "md": 12,
+                                    "sm": 12,
+                                    "xs": 12
+                                },
+                                "hidden": false,
+                                "id": 1557318201768,
+                                "key": "seo",
+                                "options": [
+                                    {
+                                        "defaultValue": "",
+                                        "gridColumns": {
+                                            "lg": 12,
+                                            "md": 12,
+                                            "sm": 12,
+                                            "xs": 12
+                                        },
+                                        "id": 1557318201775,
+                                        "key": "metaTitle",
+                                        "title": "Meta Title",
+                                        "type": "text"
+                                    },
+                                    {
+                                        "defaultValue": "",
+                                        "gridColumns": {
+                                            "lg": 12,
+                                            "md": 12,
+                                            "sm": 12,
+                                            "xs": 12
+                                        },
+                                        "id": 1557318201776,
+                                        "key": "metaAuthor",
+                                        "title": "Author",
+                                        "type": "text"
+                                    },
+                                    {
+                                        "defaultValue": "",
+                                        "gridColumns": {
+                                            "lg": 12,
+                                            "md": 12,
+                                            "sm": 12,
+                                            "xs": 12
+                                        },
+                                        "id": 1557318201777,
+                                        "key": "canonicalUrl",
+                                        "title": "Canonical URL",
+                                        "type": "text"
+                                    },
+                                    {
+                                        "defaultValue": "",
+                                        "description": "",
+                                        "gridColumns": {
+                                            "lg": 12,
+                                            "md": 12,
+                                            "sm": 12,
+                                            "xs": 12
+                                        },
+                                        "hidden": false,
+                                        "id": 1557318259742,
+                                        "key": "description",
+                                        "show": false,
+                                        "title": "Description",
+                                        "type": "text"
+                                    },
+                                    {
+                                        "defaultValue": "",
+                                        "description": "",
+                                        "gridColumns": {
+                                            "lg": 12,
+                                            "md": 12,
+                                            "sm": 12,
+                                            "xs": 12
+                                        },
+                                        "hidden": false,
+                                        "id": 1557318269888,
+                                        "key": "keywords",
+                                        "show": false,
+                                        "title": "Keywords",
+                                        "type": "text"
+                                    }
+                                ],
+                                "show": false,
+                                "title": "Seo",
+                                "type": "fieldset"
+                            },
+                            {
+                                "description": "",
+                                "gridColumns": {
+                                    "lg": 12,
+                                    "md": 12,
+                                    "sm": 12,
+                                    "xs": 12
+                                },
+                                "hidden": false,
+                                "id": 1558096601270,
+                                "key": "slider",
+                                "layout": "table",
+                                "options": [
+                                    {
+                                        "defaultValue": "",
+                                        "description": "",
+                                        "gridColumns": {
+                                            "lg": 12,
+                                            "md": 12,
+                                            "sm": 12,
+                                            "xs": 12
+                                        },
+                                        "hidden": false,
+                                        "id": 1558096630260,
+                                        "key": "text",
+                                        "show": false,
+                                        "title": "Text",
+                                        "type": "wysiwyg"
+                                    }
+                                ],
+                                "show": false,
+                                "title": "Slider",
+                                "type": "repeater"
+                            }
+                        ],
+                        "group": "Pages",
+                        "icon": "",
+                        "id": "homeEn",
+                        "sortable": true,
+                        "title": "Home (En)",
+                        "type": "single"
+                    },
+                    "homeNl": {
+                        "__meta__": {
+                            "createdBy": "776DXxEwEQaJ5XWIvMAzZS6SBSs2",
+                            "createdDate": "2019-05-17T14:18:22.633Z"
+                        },
+                        "description": "",
+                        "enabled": true,
+                        "fields": [
+                            {
+                                "defaultValue": "",
+                                "description": "",
+                                "gridColumns": {
+                                    "lg": 12,
+                                    "md": 12,
+                                    "sm": 12,
+                                    "xs": 12
+                                },
+                                "hidden": false,
+                                "id": 1557318201768,
+                                "key": "seo",
+                                "options": [
+                                    {
+                                        "defaultValue": "",
+                                        "gridColumns": {
+                                            "lg": 12,
+                                            "md": 12,
+                                            "sm": 12,
+                                            "xs": 12
+                                        },
+                                        "id": 1557318201775,
+                                        "key": "metaTitle",
+                                        "title": "Meta Title",
+                                        "type": "text"
+                                    },
+                                    {
+                                        "defaultValue": "",
+                                        "gridColumns": {
+                                            "lg": 12,
+                                            "md": 12,
+                                            "sm": 12,
+                                            "xs": 12
+                                        },
+                                        "id": 1557318201776,
+                                        "key": "metaAuthor",
+                                        "title": "Author",
+                                        "type": "text"
+                                    },
+                                    {
+                                        "defaultValue": "",
+                                        "gridColumns": {
+                                            "lg": 12,
+                                            "md": 12,
+                                            "sm": 12,
+                                            "xs": 12
+                                        },
+                                        "id": 1557318201777,
+                                        "key": "canonicalUrl",
+                                        "title": "Canonical URL",
+                                        "type": "text"
+                                    },
+                                    {
+                                        "defaultValue": "",
+                                        "description": "",
+                                        "gridColumns": {
+                                            "lg": 12,
+                                            "md": 12,
+                                            "sm": 12,
+                                            "xs": 12
+                                        },
+                                        "hidden": false,
+                                        "id": 1557318259742,
+                                        "key": "description",
+                                        "show": false,
+                                        "title": "Description",
+                                        "type": "text"
+                                    },
+                                    {
+                                        "defaultValue": "",
+                                        "description": "",
+                                        "gridColumns": {
+                                            "lg": 12,
+                                            "md": 12,
+                                            "sm": 12,
+                                            "xs": 12
+                                        },
+                                        "hidden": false,
+                                        "id": 1557318269888,
+                                        "key": "keywords",
+                                        "show": false,
+                                        "title": "Keywords",
+                                        "type": "text"
+                                    }
+                                ],
+                                "show": false,
+                                "title": "Seo",
+                                "type": "fieldset"
+                            },
+                            {
+                                "description": "",
+                                "gridColumns": {
+                                    "lg": 12,
+                                    "md": 12,
+                                    "sm": 12,
+                                    "xs": 12
+                                },
+                                "hidden": false,
+                                "id": 1558096601270,
+                                "key": "slider",
+                                "layout": "table",
+                                "options": [
+                                    {
+                                        "defaultValue": "",
+                                        "description": "",
+                                        "gridColumns": {
+                                            "lg": 12,
+                                            "md": 12,
+                                            "sm": 12,
+                                            "xs": 12
+                                        },
+                                        "hidden": false,
+                                        "id": 1558096630260,
+                                        "key": "text",
+                                        "show": false,
+                                        "title": "Text",
+                                        "type": "wysiwyg"
+                                    }
+                                ],
+                                "show": false,
+                                "title": "Slider",
+                                "type": "repeater"
+                            }
+                        ],
+                        "group": "Pages",
+                        "icon": "",
+                        "id": "homeNl",
+                        "sortable": true,
+                        "title": "Home (Nl)",
+                        "type": "single"
+                    },
+                    "languageEn": {
+                        "__meta__": {
+                            "createdBy": "776DXxEwEQaJ5XWIvMAzZS6SBSs2",
+                            "createdDate": "2019-05-17T14:19:30.434Z"
+                        },
+                        "description": "",
+                        "enabled": true,
+                        "fields": [
+                            {
+                                "defaultValue": "",
+                                "description": "",
+                                "gridColumns": {
+                                    "lg": 12,
+                                    "md": 12,
+                                    "sm": 12,
+                                    "xs": 12
+                                },
+                                "hidden": false,
+                                "id": 1558096536531,
+                                "key": "title",
+                                "show": false,
+                                "title": "Title",
+                                "type": "text"
+                            },
+                            {
+                                "description": "",
+                                "gridColumns": {
+                                    "lg": 12,
+                                    "md": 12,
+                                    "sm": 12,
+                                    "xs": 12
+                                },
+                                "hidden": false,
+                                "id": 1557313773519,
+                                "key": "footer",
+                                "options": [
+                                    {
+                                        "defaultValue": "",
+                                        "description": "",
+                                        "gridColumns": {
+                                            "lg": 12,
+                                            "md": 12,
+                                            "sm": 12,
+                                            "xs": 12
+                                        },
+                                        "hidden": false,
+                                        "id": 1557313780006,
+                                        "key": "copyright",
+                                        "show": false,
+                                        "title": "Copyright",
+                                        "type": "text"
+                                    }
+                                ],
+                                "overviewFieldsSeparator": "",
+                                "show": true,
+                                "title": "Footer",
+                                "type": "fieldset"
+                            }
+                        ],
+                        "group": "Language",
+                        "icon": "",
+                        "id": "languageEn",
+                        "sortable": true,
+                        "title": "Language (En)",
+                        "type": "single"
+                    },
+                    "languageNl": {
+                        "__meta__": {
+                            "createdBy": "776DXxEwEQaJ5XWIvMAzZS6SBSs2",
+                            "createdDate": "2019-05-17T14:19:58.867Z"
+                        },
+                        "description": "",
+                        "enabled": true,
+                        "fields": [
+                            {
+                                "defaultValue": "",
+                                "description": "",
+                                "gridColumns": {
+                                    "lg": 12,
+                                    "md": 12,
+                                    "sm": 12,
+                                    "xs": 12
+                                },
+                                "hidden": false,
+                                "id": 1558096536531,
+                                "key": "title",
+                                "show": false,
+                                "title": "Title",
+                                "type": "text"
+                            },
+                            {
+                                "description": "",
+                                "gridColumns": {
+                                    "lg": 12,
+                                    "md": 12,
+                                    "sm": 12,
+                                    "xs": 12
+                                },
+                                "hidden": false,
+                                "id": 1557313773519,
+                                "key": "footer",
+                                "options": [
+                                    {
+                                        "defaultValue": "",
+                                        "description": "",
+                                        "gridColumns": {
+                                            "lg": 12,
+                                            "md": 12,
+                                            "sm": 12,
+                                            "xs": 12
+                                        },
+                                        "hidden": false,
+                                        "id": 1557313780006,
+                                        "key": "copyright",
+                                        "show": false,
+                                        "title": "Copyright",
+                                        "type": "text"
+                                    }
+                                ],
+                                "overviewFieldsSeparator": "",
+                                "show": true,
+                                "title": "Footer",
+                                "type": "fieldset"
+                            }
+                        ],
+                        "group": "Language",
+                        "icon": "",
+                        "id": "languageNl",
+                        "sortable": true,
+                        "title": "Language (Nl)",
+                        "type": "single"
+                    },
+                    "settings": {
+                        "__meta__": {
+                            "createdBy": "NcsdXkTeqBXEIiyc3LzMFMxwiL23",
+                            "createdDate": "2019-05-08T12:21:26.485Z",
+                            "lastModifiedBy": "776DXxEwEQaJ5XWIvMAzZS6SBSs2",
+                            "lastModifiedDate": "2019-05-17T15:29:49.181Z"
+                        },
+                        "description": "",
+                        "enabled": true,
+                        "fields": [
+                            {
+                                "description": "",
+                                "gridColumns": {
+                                    "lg": 12,
+                                    "md": 12,
+                                    "sm": 12,
+                                    "xs": 12
+                                },
+                                "hidden": false,
+                                "id": 1558096788329,
+                                "key": "logo",
+                                "limit": 1,
+                                "mediaTypes": [
+                                    "images"
+                                ],
+                                "show": false,
+                                "title": "Logo",
+                                "type": "media"
+                            },
+                            {
+                                "defaultValue": "",
+                                "description": "",
+                                "gridColumns": {
+                                    "lg": 12,
+                                    "md": 12,
+                                    "sm": 12,
+                                    "xs": 12
+                                },
+                                "hidden": false,
+                                "id": 1557763254898,
+                                "key": "contactUsEmail",
+                                "show": false,
+                                "title": "Contact Us Email",
+                                "type": "text"
+                            },
+                            {
+                                "defaultValue": "",
+                                "description": "",
+                                "gridColumns": {
+                                    "lg": 12,
+                                    "md": 12,
+                                    "sm": 12,
+                                    "xs": 12
+                                },
+                                "hidden": false,
+                                "id": 1558106977481,
+                                "key": "madrillApiKey",
+                                "show": false,
+                                "title": "Madrill Api Key",
+                                "type": "text"
+                            },
+                            {
+                                "description": "",
+                                "gridColumns": {
+                                    "lg": 12,
+                                    "md": 12,
+                                    "sm": 12,
+                                    "xs": 12
+                                },
+                                "hidden": false,
+                                "id": 1557318009296,
+                                "key": "social",
+                                "options": [
+                                    {
+                                        "defaultValue": "",
+                                        "description": "",
+                                        "gridColumns": {
+                                            "lg": 12,
+                                            "md": 12,
+                                            "sm": 12,
+                                            "xs": 12
+                                        },
+                                        "hidden": false,
+                                        "id": 1557318020743,
+                                        "key": "facebookLink",
+                                        "show": false,
+                                        "title": "Facebook Link",
+                                        "type": "text"
+                                    },
+                                    {
+                                        "defaultValue": "",
+                                        "description": "",
+                                        "gridColumns": {
+                                            "lg": 12,
+                                            "md": 12,
+                                            "sm": 12,
+                                            "xs": 12
+                                        },
+                                        "hidden": false,
+                                        "id": 1557318037812,
+                                        "key": "twitterLink",
+                                        "show": false,
+                                        "title": "Twitter Link",
+                                        "type": "text"
+                                    },
+                                    {
+                                        "defaultValue": "",
+                                        "description": "",
+                                        "gridColumns": {
+                                            "lg": 12,
+                                            "md": 12,
+                                            "sm": 12,
+                                            "xs": 12
+                                        },
+                                        "hidden": false,
+                                        "id": 1557318038291,
+                                        "key": "linkedinLink",
+                                        "show": false,
+                                        "title": "Linkedin Link",
+                                        "type": "text"
+                                    }
+                                ],
+                                "overviewFieldsSeparator": "",
+                                "show": true,
+                                "title": "Social",
+                                "type": "fieldset"
+                            }
+                        ],
+                        "group": "Settings",
+                        "icon": "",
+                        "id": "settings",
+                        "sortable": true,
+                        "title": "Settings",
+                        "type": "single"
+                    },
+                    "sliderEn": {
+                        "__meta__": {
+                            "createdBy": "776DXxEwEQaJ5XWIvMAzZS6SBSs2",
+                            "createdDate": "2019-05-17T14:18:45.405Z"
+                        },
+                        "description": "",
+                        "enabled": true,
+                        "fields": [
+                            {
+                                "defaultValue": "",
+                                "description": "",
+                                "gridColumns": {
+                                    "lg": 12,
+                                    "md": 12,
+                                    "sm": 12,
+                                    "xs": 12
+                                },
+                                "hidden": false,
+                                "id": 1557318201768,
+                                "key": "seo",
+                                "options": [
+                                    {
+                                        "defaultValue": "",
+                                        "gridColumns": {
+                                            "lg": 12,
+                                            "md": 12,
+                                            "sm": 12,
+                                            "xs": 12
+                                        },
+                                        "id": 1557318201775,
+                                        "key": "metaTitle",
+                                        "title": "Meta Title",
+                                        "type": "text"
+                                    },
+                                    {
+                                        "defaultValue": "",
+                                        "gridColumns": {
+                                            "lg": 12,
+                                            "md": 12,
+                                            "sm": 12,
+                                            "xs": 12
+                                        },
+                                        "id": 1557318201776,
+                                        "key": "metaAuthor",
+                                        "title": "Author",
+                                        "type": "text"
+                                    },
+                                    {
+                                        "defaultValue": "",
+                                        "gridColumns": {
+                                            "lg": 12,
+                                            "md": 12,
+                                            "sm": 12,
+                                            "xs": 12
+                                        },
+                                        "id": 1557318201777,
+                                        "key": "canonicalUrl",
+                                        "title": "Canonical URL",
+                                        "type": "text"
+                                    },
+                                    {
+                                        "defaultValue": "",
+                                        "description": "",
+                                        "gridColumns": {
+                                            "lg": 12,
+                                            "md": 12,
+                                            "sm": 12,
+                                            "xs": 12
+                                        },
+                                        "hidden": false,
+                                        "id": 1557318259742,
+                                        "key": "description",
+                                        "show": false,
+                                        "title": "Description",
+                                        "type": "text"
+                                    },
+                                    {
+                                        "defaultValue": "",
+                                        "description": "",
+                                        "gridColumns": {
+                                            "lg": 12,
+                                            "md": 12,
+                                            "sm": 12,
+                                            "xs": 12
+                                        },
+                                        "hidden": false,
+                                        "id": 1557318269888,
+                                        "key": "keywords",
+                                        "show": false,
+                                        "title": "Keywords",
+                                        "type": "text"
+                                    }
+                                ],
+                                "show": false,
+                                "title": "Seo",
+                                "type": "fieldset"
+                            },
+                            {
+                                "description": "",
+                                "gridColumns": {
+                                    "lg": 12,
+                                    "md": 12,
+                                    "sm": 12,
+                                    "xs": 12
+                                },
+                                "hidden": false,
+                                "id": 1558096601270,
+                                "key": "slider",
+                                "layout": "table",
+                                "options": [
+                                    {
+                                        "defaultValue": "",
+                                        "description": "",
+                                        "gridColumns": {
+                                            "lg": 12,
+                                            "md": 12,
+                                            "sm": 12,
+                                            "xs": 12
+                                        },
+                                        "hidden": false,
+                                        "id": 1558096630260,
+                                        "key": "text",
+                                        "show": false,
+                                        "title": "Text",
+                                        "type": "wysiwyg"
+                                    }
+                                ],
+                                "show": false,
+                                "title": "Slider",
+                                "type": "repeater"
+                            }
+                        ],
+                        "group": "Pages",
+                        "icon": "",
+                        "id": "sliderEn",
+                        "sortable": true,
+                        "title": "Slider (En)",
+                        "type": "single"
+                    },
+                    "sliderNl": {
+                        "__meta__": {
+                            "createdBy": "776DXxEwEQaJ5XWIvMAzZS6SBSs2",
+                            "createdDate": "2019-05-17T14:20:24.931Z"
+                        },
+                        "description": "",
+                        "enabled": true,
+                        "fields": [
+                            {
+                                "defaultValue": "",
+                                "description": "",
+                                "gridColumns": {
+                                    "lg": 12,
+                                    "md": 12,
+                                    "sm": 12,
+                                    "xs": 12
+                                },
+                                "hidden": false,
+                                "id": 1557318201768,
+                                "key": "seo",
+                                "options": [
+                                    {
+                                        "defaultValue": "",
+                                        "gridColumns": {
+                                            "lg": 12,
+                                            "md": 12,
+                                            "sm": 12,
+                                            "xs": 12
+                                        },
+                                        "id": 1557318201775,
+                                        "key": "metaTitle",
+                                        "title": "Meta Title",
+                                        "type": "text"
+                                    },
+                                    {
+                                        "defaultValue": "",
+                                        "gridColumns": {
+                                            "lg": 12,
+                                            "md": 12,
+                                            "sm": 12,
+                                            "xs": 12
+                                        },
+                                        "id": 1557318201776,
+                                        "key": "metaAuthor",
+                                        "title": "Author",
+                                        "type": "text"
+                                    },
+                                    {
+                                        "defaultValue": "",
+                                        "gridColumns": {
+                                            "lg": 12,
+                                            "md": 12,
+                                            "sm": 12,
+                                            "xs": 12
+                                        },
+                                        "id": 1557318201777,
+                                        "key": "canonicalUrl",
+                                        "title": "Canonical URL",
+                                        "type": "text"
+                                    },
+                                    {
+                                        "defaultValue": "",
+                                        "description": "",
+                                        "gridColumns": {
+                                            "lg": 12,
+                                            "md": 12,
+                                            "sm": 12,
+                                            "xs": 12
+                                        },
+                                        "hidden": false,
+                                        "id": 1557318259742,
+                                        "key": "description",
+                                        "show": false,
+                                        "title": "Description",
+                                        "type": "text"
+                                    },
+                                    {
+                                        "defaultValue": "",
+                                        "description": "",
+                                        "gridColumns": {
+                                            "lg": 12,
+                                            "md": 12,
+                                            "sm": 12,
+                                            "xs": 12
+                                        },
+                                        "hidden": false,
+                                        "id": 1557318269888,
+                                        "key": "keywords",
+                                        "show": false,
+                                        "title": "Keywords",
+                                        "type": "text"
+                                    }
+                                ],
+                                "show": false,
+                                "title": "Seo",
+                                "type": "fieldset"
+                            },
+                            {
+                                "description": "",
+                                "gridColumns": {
+                                    "lg": 12,
+                                    "md": 12,
+                                    "sm": 12,
+                                    "xs": 12
+                                },
+                                "hidden": false,
+                                "id": 1558096601270,
+                                "key": "slider",
+                                "layout": "table",
+                                "options": [
+                                    {
+                                        "defaultValue": "",
+                                        "description": "",
+                                        "gridColumns": {
+                                            "lg": 12,
+                                            "md": 12,
+                                            "sm": 12,
+                                            "xs": 12
+                                        },
+                                        "hidden": false,
+                                        "id": 1558096630260,
+                                        "key": "text",
+                                        "show": false,
+                                        "title": "Text",
+                                        "type": "wysiwyg"
+                                    }
+                                ],
+                                "show": false,
+                                "title": "Slider",
+                                "type": "repeater"
+                            }
+                        ],
+                        "group": "Pages",
+                        "icon": "",
+                        "id": "sliderNl",
+                        "sortable": true,
+                        "title": "Slider (Nl)",
+                        "type": "single"
+                    }
+                }
+            }
+        },
+        "media": {
+            "files": {
+                "1558096872500": {
+                    "__meta__": {
+                        "createdBy": "776DXxEwEQaJ5XWIvMAzZS6SBSs2",
+                        "createdDate": "2019-05-17T12:41:14.558Z"
+                    },
+                    "contentType": "image/svg+xml",
+                    "file": "1558096872500_download.svg",
+                    "folderId": 1558085924493,
+                    "id": 1558096872500,
+                    "sizes": [
+                        {
+                            "height": 9999,
+                            "path": "375_9999_100",
+                            "quality": 1,
+                            "width": 375
+                        },
+                        {
+                            "height": 9999,
+                            "path": "667_9999_100",
+                            "quality": 1,
+                            "width": 667
+                        },
+                        {
+                            "height": 9999,
+                            "path": "900_9999_100",
+                            "quality": 1,
+                            "width": 900
+                        },
+                        {
+                            "height": 9999,
+                            "path": "1080_9999_100",
+                            "quality": 1,
+                            "width": 1080
+                        },
+                        {
+                            "height": 9999,
+                            "path": "1440_9999_100",
+                            "quality": 1,
+                            "width": 1440
+                        },
+                        {
+                            "height": 9999,
+                            "path": "1920_9999_100",
+                            "quality": 1,
+                            "width": 1920
+                        }
+                    ],
+                    "type": "images"
+                }
+            },
+            "folders": {
+                "1558085924493": {
+                    "id": 1558085924493,
+                    "name": "Root",
+                    "order": 0,
+                    "parentId": 0
+                }
+            }
+        },
+        "permissions": [
+            null,
+            {
+                "content": {
+                    "production": {
+                        "homeEN": {
+                            "create": true,
+                            "delete": true,
+                            "update": true,
+                            "view": true
+                        },
+                        "homeNL": {
+                            "create": true,
+                            "delete": true,
+                            "update": true,
+                            "view": true
+                        },
+                        "homeNl": {
+                            "create": true,
+                            "delete": true,
+                            "update": true,
+                            "view": true
+                        },
+                        "languageEN": {
+                            "create": true,
+                            "delete": true,
+                            "update": true,
+                            "view": true
+                        },
+                        "languageNL": {
+                            "create": true,
+                            "delete": true,
+                            "update": true,
+                            "view": true
+                        },
+                        "languageNl": {
+                            "create": true,
+                            "delete": true,
+                            "update": true,
+                            "view": true
+                        },
+                        "slider": {
+                            "create": true,
+                            "delete": true,
+                            "update": true,
+                            "view": true
+                        },
+                        "sliderEN": {
+                            "create": true,
+                            "delete": true,
+                            "update": true,
+                            "view": true
+                        },
+                        "sliderNL": {
+                            "create": true,
+                            "delete": true,
+                            "update": true,
+                            "view": true
+                        },
+                        "sliderNlL": {
+                            "create": true,
+                            "delete": true,
+                            "update": true,
+                            "view": true
+                        }
+                    }
+                },
+                "environments": {
+                    "production": true
+                },
+                "id": 1,
+                "media": {
+                    "create": true,
+                    "delete": true,
+                    "update": true,
+                    "view": true
+                },
+                "name": "Super Admin",
+                "navigation": {
+                    "production": {
+                        "create": true,
+                        "delete": true,
+                        "update": true,
+                        "view": true
+                    }
+                },
+                "permissions": {
+                    "create": true,
+                    "delete": true,
+                    "update": true,
+                    "view": true
+                },
+                "schemas": {
+                    "production": {
+                        "create": true,
+                        "delete": true,
+                        "update": true,
+                        "view": true
+                    }
+                },
+                "settings": {
+                    "backups": {
+                        "create": true,
+                        "delete": true,
+                        "update": true,
+                        "view": true
+                    },
+                    "environments": {
+                        "create": true,
+                        "delete": true,
+                        "update": true,
+                        "view": true
+                    },
+                    "general": {
+                        "create": true,
+                        "delete": true,
+                        "update": true,
+                        "view": true
+                    },
+                    "globals": {
+                        "create": true,
+                        "delete": true,
+                        "update": true,
+                        "view": true
+                    },
+                    "locales": {
+                        "create": true,
+                        "delete": true,
+                        "update": true,
+                        "view": true
+                    }
+                },
+                "users": {
+                    "create": true,
+                    "delete": true,
+                    "update": true,
+                    "view": true
+                }
+            }
+        ],
+        "settings": {
+            "backups": {
+                "1558103008613": {
+                    "__meta__": {
+                        "createdBy": "776DXxEwEQaJ5XWIvMAzZS6SBSs2",
+                        "createdDate": "2019-05-17T14:23:28.614Z"
+                    },
+                    "file": "flamelink_nuxt-ssr-kit_2019_05_17_17_23_27.json",
+                    "id": 1558103008613,
+                    "timestamp": "2019-05-17 17:23:27"
+                }
+            },
+            "defaultLocale": "en-US",
+            "environments": {
+                "production": {
+                    "id": "production",
+                    "name": "Production"
+                }
+            },
+            "general": {
+                "defaultPermissionsGroup": "1",
+                "imageSizes": [
+                    {
+                        "height": 9999,
+                        "quality": 1,
+                        "width": 375
+                    },
+                    {
+                        "height": 9999,
+                        "quality": 1,
+                        "width": 667
+                    },
+                    {
+                        "height": 9999,
+                        "quality": 1,
+                        "width": 900
+                    },
+                    {
+                        "height": 9999,
+                        "quality": 1,
+                        "width": 1080
+                    },
+                    {
+                        "height": 9999,
+                        "quality": 1,
+                        "width": 1440
+                    },
+                    {
+                        "height": 9999,
+                        "quality": 1,
+                        "width": 1920
+                    }
+                ]
+            },
+            "locales": {
+                "en-US": {
+                    "id": "en-US",
+                    "name": "English (America)"
+                }
+            }
+        },
+        "users": {
+            "776DXxEwEQaJ5XWIvMAzZS6SBSs2": {
+                "displayName": "Oleksii",
+                "email": "brylin@moqod.com",
+                "enabled": "Yes",
+                "firstName": "",
+                "id": "776DXxEwEQaJ5XWIvMAzZS6SBSs2",
+                "lastName": "",
+                "permissions": 1
+            }
+        }
+    }
+}

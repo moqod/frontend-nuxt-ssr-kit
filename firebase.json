@@ -1,0 +1,39 @@
+{
+  "hosting": {
+    "public": "public",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**",
+      "/src/**"
+    ],
+    "rewrites": [
+      {
+        "source": "**",
+        "function": "nuxtApp"
+      }
+    ],
+    "trailingSlash": false,
+    "headers": [ {
+      // Specifies a CORS header for all font files
+      "source": "**/*.@(eot|otf|ttf|ttc|woff|woff2|font.css)",
+      "headers": [ {
+        "key": "Cache-Control",
+        "value": "max-age=315360000"
+      } ]
+    }, {
+      // Overrides the default 1 hour browser cache with a 2 hour cache for all image files
+      "source": "**/*.@(jpg|jpeg|gif|png|svg)",
+      "headers": [ {
+        "key": "Cache-Control",
+        "value": "max-age=315360000"
+      } ]
+    }, {
+      "source": "**/*.@(css|js)",
+      "headers": [ {
+        "key": "Cache-Control",
+        "value": "max-age=315360000"
+      } ]
+    }]
+  }
+}
