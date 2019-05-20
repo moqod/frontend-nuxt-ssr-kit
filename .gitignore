@@ -67,5 +67,7 @@ node_modules/
 .idea/
 .firebaserc
 .editorconfig
+functions/nuxt/*
 
 public/*
+serviseAccountFirebase.json
