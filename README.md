@@ -1,30 +1,32 @@
 # frontend-nuxt-ssr-kit
 
-1. копируем проект 
-1.1 npm install в папке src
-1.1 npm install в папке functions
-2. создаем .env файл из .evn.example
+1. Копируем проект c git
++ `rm -r .git -f` удаляем .git файлы
++ `npm install` в папке src
++ `npm install` в папке functions
+2. Копируем `.env` файл из `.evn.example`
 3. Создать проект в firebase https://console.firebase.google.com/u/1/
-3.1 Скопировать доступы в .env файл
-3.2 Соранить серверные настройки в json файле
++ Скопировать доступы в .env файл из firebase
++ Соранить серверные настройки в json файле (детальнее в .env файле)
 3. Создать Realtime Database (НЕ Cloud Firestore!)
-4. Пройти инструкции по настройки флеймлинк 
+5. Пройти инструкции по настройки флеймлинк 
 https://app.flamelink.io/dashboard
-4.1. Realtime Database
-4.2. пройти три шага
-4.3. Создать сделать структуру контента или восстановить из бекапа flamelink_default_schema.json
-4.4 вставить расширенные правила для БД 
-5.1 Установить npm install -g firebase-tools
-5.2 firebase login
-5.3 В папке проекта firebase init hosting (choose not SPA)
-6. Загрузить картинки для слайдера
++ Realtime Database
++ Пройти три шага
++ Создать структуру контента или восстановить пример из бекапа flamelink_default_schema.json
++ Вставить расширенные правила для БД 
+6. Установка firebase
++ Установить `npm install -g firebase-tools`
++ `firebase login`
++ В папке проекта `firebase init hosting` (choose not SPA, folder `public`)
++ Файл /firebase.json взять из репозитория
 7. Сбилдить проект `npm run build` в /src папке
 8. in root folder run commands:
-8.1 `rm -r public/*`
-8.2 `rm -r functions/nuxt/`
-8.2 `cp -R src/static/* public/`
-8.3 `cp -R src/.nuxt/dist/client/ public/dist/`
-8.4 `cp -R src/.nuxt/ functions/nuxt/`
++ `rm -r public/*`
++ `rm -r functions/nuxt/`
++ `cp -R src/static/* public/`
++ `cp -R src/.nuxt/dist/client/ public/dist/`
++ `cp -R src/.nuxt/ functions/nuxt/`
 9. (optional) Check on local environment `firebase serve --only hosting,functions`
 10. Deploy on firebase server `firebase deploy`
 
