@@ -69,4 +69,5 @@ node_modules/
 .editorconfig
 functions/nuxt/*
 
+public/*
 serviseAccountFirebase.json
