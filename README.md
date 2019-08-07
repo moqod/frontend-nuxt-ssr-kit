@@ -1,7 +1,7 @@
 # frontend-nuxt-ssr-kit
 
 1. Копируем проект c git
-+ `rm -r .git -f` удаляем .git файлы
++ `rm -r .git -force` удаляем .git файлы
 + `npm install` в папке src
 + `npm install` в папке functions
 2. Копируем `.env` файл из `.evn.example`
