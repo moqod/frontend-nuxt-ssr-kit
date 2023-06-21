@@ -18,7 +18,7 @@
     "firebase": "^6.0.2",
     "firebase-admin": "^7.3.0",
     "flamelink": "v0.19.13",
-    "nuxt": "^2.7.1",
+    "nuxt": "^3.4.3",
     "nuxt-i18n": "^5.12.3",
     "vue-awesome-swiper": "^3.1.3",
     "vue-scrollto": "^2.15.0"
